@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentAssertionsDemo", "FluentAssertionsDemo\FluentAssertionsDemo.csproj", "{A80605FE-DA72-48DD-868A-E82180A9367C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentAssertionsDemo.Tests", "FluentAssertionsDemo.Tests\FluentAssertionsDemo.Tests.csproj", "{791720C1-15BF-4EF0-A966-A66C48D41FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80605FE-DA72-48DD-868A-E82180A9367C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80605FE-DA72-48DD-868A-E82180A9367C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80605FE-DA72-48DD-868A-E82180A9367C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80605FE-DA72-48DD-868A-E82180A9367C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791720C1-15BF-4EF0-A966-A66C48D41FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791720C1-15BF-4EF0-A966-A66C48D41FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791720C1-15BF-4EF0-A966-A66C48D41FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791720C1-15BF-4EF0-A966-A66C48D41FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E36BB76-08C6-4525-9D90-B859F9B3E3E5}
+	EndGlobalSection
+EndGlobal
