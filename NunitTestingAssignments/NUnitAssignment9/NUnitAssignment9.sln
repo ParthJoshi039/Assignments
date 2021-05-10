@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConstrainDemo", "CustomConstrainDemo\CustomConstrainDemo.csproj", "{5529E481-4B9B-4314-88AC-A6FA39C79B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConstrainDemo.Tests", "CustomConstrainDemo.Tests\CustomConstrainDemo.Tests.csproj", "{FE5F6464-1608-4E69-96D0-784DC169D347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5529E481-4B9B-4314-88AC-A6FA39C79B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5529E481-4B9B-4314-88AC-A6FA39C79B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5529E481-4B9B-4314-88AC-A6FA39C79B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5529E481-4B9B-4314-88AC-A6FA39C79B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5F6464-1608-4E69-96D0-784DC169D347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5F6464-1608-4E69-96D0-784DC169D347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5F6464-1608-4E69-96D0-784DC169D347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5F6464-1608-4E69-96D0-784DC169D347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C3A148-F437-4C2E-8FAA-34C7AD8FEC30}
+	EndGlobalSection
+EndGlobal

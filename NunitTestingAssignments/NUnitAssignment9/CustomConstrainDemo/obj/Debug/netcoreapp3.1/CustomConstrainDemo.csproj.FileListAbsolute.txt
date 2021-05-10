@@ -1,0 +1,9 @@
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\bin\Debug\netcoreapp3.1\CustomConstrainDemo.deps.json
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\bin\Debug\netcoreapp3.1\CustomConstrainDemo.dll
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\bin\Debug\netcoreapp3.1\CustomConstrainDemo.pdb
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.csprojAssemblyReference.cache
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.AssemblyInfoInputs.cache
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.AssemblyInfo.cs
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.csproj.CoreCompileInputs.cache
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.dll
+C:\Users\win-10\source\repos\NUnitAssignment9\CustomConstrainDemo\obj\Debug\netcoreapp3.1\CustomConstrainDemo.pdb
